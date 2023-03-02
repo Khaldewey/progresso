@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blackheight=120&section=header"/>
+
 ## Meu progresso de hardskill durante os estudos na DIO (Digital Innovation One) 🚀
 <br><br><br>
 Projetos  | Bootcamp | Link  |

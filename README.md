@@ -12,4 +12,7 @@ Desafio  | Bootcamp | Link  |
 :---------: | :---------:|:-------:|
 Fábrica de Carro | Banco Pan Java Developer    |  [clique aqui para visualizar o repositório](https://github.com/Khaldewey/desafio-fabrica-de-carros/tree/master) |
 Imprimindo Positivos e Média| Banco Pan Java Developer| [clique aqui para visualizar o repositório](https://github.com/Khaldewey/desafio-imprimindo-positivos-e-media/tree/master) |                   
+<br>
 
+## Outros links: 
+ - Soluções dos desafios do codecamp 1st edition (Javascript): [clique aqui para visualizar o repositório](https://github.com/Khaldewey/codecamp-1st-edition/tree/main)       

@@ -11,8 +11,11 @@ Script de Provisionamento de um Servidor Web (Apache) | Linux do Zero    |  [cli
 Desafio  | Bootcamp | Link  |
 :---------: | :---------:|:-------:|
 Fábrica de Carro | Banco Pan Java Developer    |  [clique aqui para visualizar o repositório](https://github.com/Khaldewey/desafio-fabrica-de-carros/tree/master) |
-Imprimindo Positivos e Média| Banco Pan Java Developer| [clique aqui para visualizar o repositório](https://github.com/Khaldewey/desafio-imprimindo-positivos-e-media/tree/master) |                   
+Imprimindo Positivos e Média| Banco Pan Java Developer| [clique aqui para visualizar o repositório](https://github.com/Khaldewey/desafio-imprimindo-positivos-e-media/tree/master) |  
+Soma de H com N Termos |Banco Pan Java Developer| [clique aqui para visualizar o repositório]( https://github.com/Khaldewey/desafio-Soma-de-H-com-N-Termos/tree/master) |
 <br>
 
 ## Outros links: 
  - Soluções dos desafios do codecamp 1st edition (Javascript): [clique aqui para visualizar o repositório](https://github.com/Khaldewey/codecamp-1st-edition/tree/main)       
+ 
+

@@ -15,6 +15,7 @@ Imprimindo Positivos e Média| Banco Pan Java Developer| [clique aqui para visua
 Soma de H com N Termos |Banco Pan Java Developer| [clique aqui para visualizar o repositório]( https://github.com/Khaldewey/desafio-Soma-de-H-com-N-Termos/tree/master) |
 Dragão | Banco Pan Java Developer | [clique aqui para visualizar o repositório](https://github.com/Khaldewey/desafio-dragao/tree/master)
 Fibonacci Fácil | Banco Pan Java Developer | [clique aqui para visualizar o repositório](https://github.com/Khaldewey/fibonacci-facil/tree/master)
+Quitanda do Seu Zé| Banco Pan Java Developer | [clique aqui para visualizar o repositório](https://github.com/Khaldewey/quitanda-do-seu-ze/tree/master)
 <br>
 
 ## Outros links: 

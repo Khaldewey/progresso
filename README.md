@@ -17,6 +17,7 @@ Dragão | Banco Pan Java Developer | [clique aqui para visualizar o repositório
 Fibonacci Fácil | Banco Pan Java Developer | [clique aqui para visualizar o repositório](https://github.com/Khaldewey/fibonacci-facil/tree/master)
 Quitanda do Seu Zé| Banco Pan Java Developer | [clique aqui para visualizar o repositório](https://github.com/Khaldewey/quitanda-do-seu-ze/tree/master)
 Triângulo|Banco Pan Java Developer| [clique aqui para visualizar o repositório](https://github.com/Khaldewey/triangulo/tree/master)
+Animal|Banco Pan Java Developer| [clique aqui para visualizar o repositório](https://github.com/Khaldewey/animal/tree/master)
 <br>
 
 ## Outros links: 

@@ -18,6 +18,7 @@ Fibonacci Fácil | Banco Pan Java Developer | [clique aqui para visualizar o rep
 Quitanda do Seu Zé| Banco Pan Java Developer | [clique aqui para visualizar o repositório](https://github.com/Khaldewey/quitanda-do-seu-ze/tree/master)
 Triângulo|Banco Pan Java Developer| [clique aqui para visualizar o repositório](https://github.com/Khaldewey/triangulo/tree/master)
 Animal|Banco Pan Java Developer| [clique aqui para visualizar o repositório](https://github.com/Khaldewey/animal/tree/master)
+Conta Espaços e Vogais| Banco Pan Java Developer| [clique aqui para visualizar o repositório](https://github.com/Khaldewey/Conta-Espacos-e-Vogais)
 <br>
 
 ## Outros links: 
